@@ -29,4 +29,6 @@ navbar:
           href: yourfile.html
     - text: "Resources"
       href: resources.html
+    - text: "My Plan"
+      href: lrg.html
 output_dir: "."
